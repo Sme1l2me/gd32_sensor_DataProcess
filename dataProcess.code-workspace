@@ -1,0 +1,32 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+      "files.associations": {
+        "*.vue": "vue",
+        "*.wpy": "vue",
+        "*.wxml": "html",
+        "*.wxss": "css",
+        "gd32f10x.h": "c",
+        "pms9103s.h": "c",
+        "stdio.h": "c",
+        "common.h": "c",
+        "math.h": "c",
+        "systick.h": "c",
+        "mhz19d.h": "c",
+        "aht20.h": "c",
+        "msm261s4030h0r.h": "c",
+        "crd1503g.h": "c",
+        "qmi8658a.h": "c",
+        "gm702b.h": "c",
+        "lxdgb5a1dphy.h": "c",
+        "e_r_sensor.h": "c",
+        "bmp390.h": "c",
+        "jxo2101.h": "c"
+      }
+    },
+    "extensions": {}
+}
